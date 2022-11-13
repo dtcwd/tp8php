@@ -1,0 +1,32 @@
+[13-Nov-2022 06:01:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "recipeName" in /home/dtcwdcom/public_html/tp8php/recipes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtcwdcom/public_html/tp8php/recipes.php on line 5
+[13-Nov-2022 06:02:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "recipeName" in /home/dtcwdcom/public_html/tp8php/recipes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtcwdcom/public_html/tp8php/recipes.php on line 5
+[13-Nov-2022 06:03:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "recipeName" in /home/dtcwdcom/public_html/tp8php/recipes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtcwdcom/public_html/tp8php/recipes.php on line 5
+[13-Nov-2022 06:10:31 UTC] PHP Parse error:  syntax error, unexpected token "==", expecting "(" in /home/dtcwdcom/public_html/tp8php/recipes.php on line 18
+[13-Nov-2022 06:11:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "recipeName" in /home/dtcwdcom/public_html/tp8php/recipes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtcwdcom/public_html/tp8php/recipes.php on line 5
+[13-Nov-2022 06:13:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "recipeName" in /home/dtcwdcom/public_html/tp8php/recipes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtcwdcom/public_html/tp8php/recipes.php on line 5
+[13-Nov-2022 06:16:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "recipeName" in /home/dtcwdcom/public_html/tp8php/recipes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtcwdcom/public_html/tp8php/recipes.php on line 5
+[13-Nov-2022 06:18:42 UTC] PHP Warning:  Undefined array key "recipeName" in /home/dtcwdcom/public_html/tp8php/recipes.php on line 5
+[13-Nov-2022 06:18:42 UTC] PHP Warning:  Undefined array key "recipeList" in /home/dtcwdcom/public_html/tp8php/recipes.php on line 6
+[13-Nov-2022 10:03:00 UTC] PHP Warning:  Undefined array key "recipeList" in /home/dtcwdcom/public_html/tp8php/recipes.php on line 6
+[13-Nov-2022 10:03:00 UTC] PHP Warning:  Undefined array key "recipeList" in /home/dtcwdcom/public_html/tp8php/recipes.php on line 6
+[13-Nov-2022 10:03:00 UTC] PHP Warning:  Undefined array key "recipeList" in /home/dtcwdcom/public_html/tp8php/recipes.php on line 6
+[13-Nov-2022 20:40:42 UTC] PHP Warning:  Undefined array key "recipeName" in /home/dtcwdcom/public_html/tp8php/recipes.php on line 5
+[13-Nov-2022 20:40:42 UTC] PHP Warning:  Undefined array key "recipeList" in /home/dtcwdcom/public_html/tp8php/recipes.php on line 6
