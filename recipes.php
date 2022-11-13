@@ -2,11 +2,13 @@
 
 /* TP8 Recipe Loader */
 
+// gets values for the passed recipeName and recipeList
 $name = $_GET["recipeName"];
 $list = $_GET["recipeList"];
 
+//testing for Lemon Bars recipe name
 if ($name == "Lemon Bars") {
-  
+  // if found and list names are founds, following files will be returned
   if ($list == "ingredients") {
    include "ingredients.html";
   }
@@ -23,6 +25,7 @@ if ($name == "Lemon Bars") {
     echo "1";
   }
   
+  // tests for this recipe name if the first was not found
 } elseif ($name == "Monkey Bread Kabobs") {
   
   if ($list == "ingredients") {
@@ -41,6 +44,7 @@ if ($name == "Lemon Bars") {
     echo "1";
   }  
 } 
+//tests for this recipe name if the first and second were not found
   elseif ($name == "Lemon Panko Crusted Salmon") {
   
   if ($list == "ingredients") {
@@ -60,7 +64,7 @@ if ($name == "Lemon Bars") {
   }
   
 }
-
+// returns a zero if the recipeName does not match any of the three recipes
 else {
   echo "0";
 }
